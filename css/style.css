@@ -65,7 +65,6 @@ nav ul li a:hover{
 
 #conteudo{
     width: 710px;
-    background-color: green;
     float: left;
 }
 
@@ -142,4 +141,26 @@ h4{
 
 section#galeria h4{
     padding-left: 35px;
+}
+
+#video{
+    float: left;
+    padding: 5px;
+    margin: 10px;
+}
+
+#localizacao{
+    float: right;   
+    padding: 5px;
+    margin: 10px;
+}
+
+#video h4{
+
+    margin-bottom: 10px;
+}
+
+#localizacao h4{
+
+    margin-bottom: 10px;
 }
